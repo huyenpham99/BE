@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\CSharpCoBan.exe.config
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\CSharpCoBan.exe
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\CSharpCoBan.pdb
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.exe
+C:\Users\Admin\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.pdb
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\bin\Debug\CSharpCoBan.exe.config
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\bin\Debug\CSharpCoBan.exe
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\bin\Debug\CSharpCoBan.pdb
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.exe
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\CSharpCoBan\obj\Debug\CSharpCoBan.pdb
