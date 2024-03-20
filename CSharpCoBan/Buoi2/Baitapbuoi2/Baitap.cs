@@ -84,6 +84,41 @@ namespace Buoi2.Baitapbuoi2
                 chuoi = chuoi.Replace(chuoi[0].ToString(), string.Empty);
             }
         }
-    }
+        //Bài 4 sử dụng do-while để Tính giai thừa của một số
+        public void Bai4_TinhGiaiThua()
+        {
+            Console.WriteLine("Please input a number: ");
+            string input = Console.ReadLine();
+            int number;
+            int giaithua = 1;
+            bool isNumber = int.TryParse(input, out number);
 
+            if (isNumber)
+            {
+                Console.WriteLine("The input is a number: " + number);
+            }
+            else
+            {
+                Console.WriteLine("The input is not a number");
+            }
+            for (int i = 1; i <= number; i++)
+            {
+                giaithua *= i;
+            }
+            Console.WriteLine("Giai thua cua so: "+ $"{number}! = {giaithua}");
+        }
+        //Sử dụng do-while để  Đoán số ngẫu nhiên
+        //( nhập vào bàn phím 1 số bất kỳ và so sánh với số được sinh ra từ Class Random trong c#)
+        public void SinhSoNgauNhien()
+        {
+            Console.WriteLine("Sinh So ngau nhien:");
+            Random random = new Random();
+        }
+
+    }
 }
+        
+
+   
+
+

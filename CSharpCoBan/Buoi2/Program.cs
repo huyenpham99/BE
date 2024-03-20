@@ -12,9 +12,11 @@ namespace Buoi2
         static void Main(string[] args)
         {
             var ex = new Baitap();
-           // ex.Bai1_SoNguyenTo();
-           // ex.Bai2_DaoNguocChuoi();
-            ex.Bai3_DemKyTu();
+            // ex.Bai1_SoNguyenTo();
+            // ex.Bai2_DaoNguocChuoi();
+            // ex.Bai3_DemKyTu();
+            ex.Bai4_TinhGiaiThua();
+            Console.ReadKey();
         }
         }
 }
