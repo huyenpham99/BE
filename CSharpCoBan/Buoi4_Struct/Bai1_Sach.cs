@@ -86,23 +86,17 @@ namespace Buoi4_Struct
             if (isNumber && namXuatBan > 1000 && namXuatBan < 2024)
             {
 
-                Console.WriteLine("Nam xuat ban khong hop le: " + namXuatBan);
+                Console.WriteLine("Nam Xuat Ban: " + namXuatBan);
+                Console.WriteLine("Thêm sách thành công.");
             }
             else
             {
-                Console.WriteLine("The input is not a number");
+                Console.WriteLine("Nam Xuat Ban Khong Hop le ");
             }
-        
 
 
 
-            Console.Write("Năm xuất bản: ");
-            namXuatBan = int.Parse(Console.ReadLine());
-
-            Sach sachMoi = new Sach(tieuDe, tenTacGia, namXuatBan);
-            danhSachSach.Add(sachMoi);
-
-            Console.WriteLine("Thêm sách thành công.");
+           
         }
 
         public static void HienThiDanhSachSach()
