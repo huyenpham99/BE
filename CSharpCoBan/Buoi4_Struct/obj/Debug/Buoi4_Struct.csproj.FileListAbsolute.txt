@@ -1,0 +1,7 @@
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\bin\Debug\Buoi4_Struct.exe.config
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\bin\Debug\Buoi4_Struct.exe
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\bin\Debug\Buoi4_Struct.pdb
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\obj\Debug\Buoi4_Struct.csproj.AssemblyReference.cache
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\obj\Debug\Buoi4_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\obj\Debug\Buoi4_Struct.exe
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi4_Struct\obj\Debug\Buoi4_Struct.pdb

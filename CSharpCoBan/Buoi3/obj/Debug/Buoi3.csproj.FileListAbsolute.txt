@@ -1,0 +1,7 @@
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\obj\Debug\Buoi3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\obj\Debug\Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\bin\Debug\Buoi3.exe.config
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\bin\Debug\Buoi3.exe
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\bin\Debug\Buoi3.pdb
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\obj\Debug\Buoi3.exe
+C:\Users\Admin\source\BE.NET2024\CSharpCoBan\Buoi3\obj\Debug\Buoi3.pdb
